@@ -3,7 +3,7 @@ Simulation of LED strip
 
 #Exaple of led strip
 
-![First gif](ArduinoTreeLedSimulator/Gifs/Dec-24-2020_21-41-28.gif)
+![First gif](Gifs/Dec-24-2020_21-41-28.gif)
 
 Dec-24-2020_21-41-28.gif
 move gifs into the folder
